@@ -651,7 +651,9 @@ padding-bottom: 5%;
 }
 
 #autocad {
-  top: 28%;
+  width: 45%;
+  top: 34%;
+  left: 27%;
 }
 #hecras {
   width: 45%;
